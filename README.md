@@ -10,7 +10,7 @@
 
 **A comprehensive, interactive study guide for the Microsoft Azure Fundamentals (AZ-900) certification exam**
 
-[🌐 Live Demo](https://az-900-notes.vercel.app/) • [📚 Study Guide](#features) • [🎯 Exam Info](#about-az-900)
+[🌐 Live Demo](https://az900-deploy-ready.vercel.app/) • [📚 Study Guide](#features) • [🎯 Exam Info](#about-az-900)
 
 </div>
 
@@ -243,7 +243,7 @@ We welcome contributions to improve the study guide! Whether it's:
 
 **Ready to ace your AZ-900 exam?** 🎯
 
-[Start Studying Now](https://az-900-notes.vercel.app/)
+[Start Studying Now](https://az900-deploy-ready.vercel.app/)
 
 ---
 
